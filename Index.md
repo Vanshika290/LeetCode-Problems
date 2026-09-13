@@ -11,3 +11,6 @@ All solved problems organized by pattern/category.
 
 ## PrefixSum
 - [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
+
+## Uncategorized
+- [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
