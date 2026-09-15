@@ -13,6 +13,7 @@ All solved problems organized by pattern/category.
 - [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
 
 ## Uncategorized
+- [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) - *Easy*
 - [Array Search](./GeeksForGeeks/Easy/Array%20Search) - *Easy*
 - [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) - *Hard*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
