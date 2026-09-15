@@ -17,3 +17,6 @@ All solved problems organized by pattern/category.
 - [Array Search](./GeeksForGeeks/Easy/Array%20Search) - *Easy*
 - [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) - *Hard*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
+
+## Arrays & Hashing
+- [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
